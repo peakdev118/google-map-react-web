@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# About project
+<img src="./project.png" alt="project interface"/>
+As you can see interface , you can control map and change the type of map.<br/>
+And you can download as various size image.<br/>
+This project  is developed with React + Google Map + Canvas + react-bootstrap.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
